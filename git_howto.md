@@ -37,3 +37,7 @@ git checkout <checkout_name>
 ```sh
 git log --oneline
 ```
+- Вывод на экран истории всех коммитов в виде веток:
+```sh
+git --oneline --graph
+```
