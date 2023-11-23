@@ -33,3 +33,7 @@ git branch <branch_name>
 ```sh
 git checkout <checkout_name>
 ```
+- Вывод на экран истории всех коммитов с их хеш-кодами списком:
+```sh
+git log --oneline
+```
