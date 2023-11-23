@@ -27,5 +27,5 @@ git branch
 ```
 - Создать новую ветку:
 ```sh
-git branch <имя новой ветки>
+git branch <branch_name>
 ```
