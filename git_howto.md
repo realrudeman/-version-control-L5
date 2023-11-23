@@ -25,3 +25,7 @@ git log
 ```sh
 git branch
 ```
+- Удалить ненужную ветку:
+```sh
+git branch -d <branch_name>
+```
