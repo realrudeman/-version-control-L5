@@ -25,6 +25,14 @@ git log
 ```sh
 git branch
 ```
+- Создать новую ветку:
+```sh
+git branch <branch_name>
+```
+- Переход к другой ветке: 
+```sh
+git checkout <checkout_name>
+```
 - Вывод на экран истории всех коммитов с их хеш-кодами списком:
 ```sh
 git log --oneline
