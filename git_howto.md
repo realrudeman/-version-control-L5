@@ -41,3 +41,7 @@ git log --oneline
 ```sh
 git --oneline --graph
 ```
+- Удалить ненужную ветку:
+```sh
+git branch -d <branch_name>
+```
