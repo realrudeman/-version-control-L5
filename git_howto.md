@@ -25,3 +25,7 @@ git log
 ```sh
 git branch
 ```
+- Создать новую ветку:
+```sh
+git branch <имя новой ветки>
+```
