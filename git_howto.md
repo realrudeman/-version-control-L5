@@ -25,3 +25,7 @@ git log
 ```sh
 git branch
 ```
+- Переход к другой ветке: 
+```sh
+git checkout <checkout_name>
+```
