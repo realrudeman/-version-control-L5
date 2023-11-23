@@ -25,3 +25,7 @@ git log
 ```sh
 git branch
 ```
+- Вывод на экран истории всех коммитов в виде веток:
+```sh
+git --oneline --graph
+```
